@@ -68,6 +68,7 @@
     <Folder Include="Restaurant\Stored Procedures\" />
     <Folder Include="Database Triggers\" />
     <Folder Include="Security\" />
+    <Folder Include="EntireDatabaseScript" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Restaurant\Tables\Cuisine.sql" />
@@ -98,5 +99,6 @@
     <Build Include="Database Triggers\TR_AuditLogDatabaseEvents.sql" />
     <Build Include="Security\Restaurant.sql" />
     <Build Include="Security\Audit.sql" />
+    <Build Include="EntireDatabaseScript\ScriptWithData2022_09_13.sql" />
   </ItemGroup>
 </Project>
